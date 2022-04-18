@@ -152,4 +152,4 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Authors
 Aristote Kongolo - [Github](https://github.com/kongoloa)
-Noah Chernet
+Noah Chernet - [Github](https://github.com/noahchernet)
